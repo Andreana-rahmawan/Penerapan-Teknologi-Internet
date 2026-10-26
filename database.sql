@@ -16,4 +16,4 @@ CREATE TABLE IF NOT EXISTS books (
     harga INT NOT NULL DEFAULT 0,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
--- User admin dibuat lewat install.php (password di-hash dengan password_hash)
+
