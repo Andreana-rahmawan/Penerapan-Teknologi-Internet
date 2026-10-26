@@ -1,6 +1,6 @@
 # Informasi Login
 
 ## Username : admin
-##Password  : admin123
+## Password  : admin123
 
 
